@@ -1,1 +1,3 @@
 # portfolio
+
+This portfolio website is a digital platform created  to showcase my work, skills, and accomplishments. It serves as a virtual resume and portfolio rolled into one, making it easy for potential clients, employers, or collaborators to learn about my capabilities and expertise, a description of my creative approach, contact information. It's a versatile tool used by artists, designers, writers, photographers, freelancers, and professionals in various fields to present talents, attract opportunities, and connect with their target audience. Effective portfolio websites are visually appealing, user-friendly, and provide a clear call to action to engage visitors and promote further interaction.
